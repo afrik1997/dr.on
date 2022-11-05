@@ -1,2 +1,2 @@
 # dr.on
-HTML CSS JS
+HTML CSS 
